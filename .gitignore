@@ -1,1 +1,19 @@
-#
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
