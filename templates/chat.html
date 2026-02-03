@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Healthcare Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<div class="chat-wrapper">
+
+    <div class="chat-header">
+        🩺 Healthcare Assistant
+    </div>
+
+    <div class="chat-area" id="chatArea">
+        <div class="message bot">
+            <div class="icon">🩺</div>
+            <div class="bubble">
+                <p><strong>Hello! I'm your healthcare assistant.</strong></p><p>How can I assist you today?</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="quick-questions">
+        <button onclick="sendQuick('What are common cold symptoms?')">Common cold symptoms</button>
+        <button onclick="sendQuick('How to manage stress?')">Manage stress</button>
+    </div>
+
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Type your health question...">
+        <button id="sendBtn" onclick="sendMessage()">➤</button>
+    </div>
+
+    <p class="disclaimer">
+        This is an AI assistant. For medical emergencies, contact a doctor or emergency services.
+    </p>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/javascript.js') }}"></script>
+</body>
+</html>
