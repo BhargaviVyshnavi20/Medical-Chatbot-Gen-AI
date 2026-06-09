@@ -179,7 +179,6 @@ http://localhost:5000
 ## 🔮 Future Enhancements
 
 - Voice-enabled conversations
-- Multi-language support
 - Medical report analysis
 - Prescription understanding
 - Appointment assistance
