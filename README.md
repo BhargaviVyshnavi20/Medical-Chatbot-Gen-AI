@@ -1,10 +1,10 @@
-# 🩺 Medical Chatbot – GenAI Powered Healthcare Assistant
+# Medical Chatbot – GenAI Powered Healthcare Assistant
 
 An AI-powered Medical Chatbot built using Generative AI and Retrieval-Augmented Generation (RAG) to provide accurate and context-aware responses to medical queries.
 
 The chatbot leverages Large Language Models (LLMs), vector embeddings, and semantic search to retrieve relevant medical information from a curated knowledge base before generating responses.
 
-> ⚠️ Disclaimer: This project is intended for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
+> Disclaimer: This project is intended for educational and research purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
 
 ---
 
