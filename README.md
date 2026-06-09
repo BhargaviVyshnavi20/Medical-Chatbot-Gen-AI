@@ -176,8 +176,9 @@ http://localhost:5000
 ## 📸 Demo
 
 ### Chat Interface
-<img width="200" height="1280" alt="health assistant git image - 1" src="https://github.com/user-attachments/assets/bb615348-ab3d-4530-b0be-30bd4c78a35f" />
 <img width="265" height="348" alt="image" src="https://github.com/user-attachments/assets/e79c294e-1364-4b58-bcb5-ccdc77980db7" />
+<img width="248" height="350" alt="image" src="https://github.com/user-attachments/assets/3e3d4089-5da5-4a45-b96e-404dd4365efd" />
+
 
 
 ---
