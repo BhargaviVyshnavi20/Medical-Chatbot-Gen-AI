@@ -85,8 +85,6 @@ Medical-Chatbot-Gen-AI/
 ├── store_index.py          # Vector database indexing
 ├── requirements.txt        # Dependencies
 ├── setup.py                # Package setup
-├── Dockerfile              # Docker configuration
-├── .github/workflows/      # CI/CD workflows
 └── README.md
 ```
 
