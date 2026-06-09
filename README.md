@@ -54,13 +54,17 @@ Medical Chatbot Response
 ### Backend
 - Python
 - Flask
-- LangChain
-- Generative AI / LLMs
 
-### AI & NLP
-- Hugging Face Embeddings
+### AI Frameworks & Tools
+- LangChain
+- Hugging Face
+- Generative AI
+- Large Language Models (LLMs)
+
+### RAG Pipeline
 - Retrieval-Augmented Generation (RAG)
 - Semantic Search
+- Vector Embeddings
 
 ### Vector Database
 - Pinecone
