@@ -65,11 +65,6 @@ Medical Chatbot Response
 ### Vector Database
 - Pinecone
 
-### Deployment
-- Docker
-- AWS EC2
-- GitHub Actions
-
 ---
 
 ## 📂 Project Structure
